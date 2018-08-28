@@ -2,7 +2,7 @@ import VueRouter from "vue-router";
 
 let routes = [
     {
-        path:'/',
+        path: '/',
         component: require('./../components/authorization/Login')
     }
 ];

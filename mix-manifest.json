@@ -2,9 +2,5 @@
     "/dist/vendor.js": "/dist/vendor.js",
     "/dist/app.js": "/dist/app.js",
     "/dist/app.css": "/dist/app.css",
-    "/dist/manifest.js": "/dist/manifest.js",
-    "/1.9dff08668a66ceb22463.hot-update.js": "/1.9dff08668a66ceb22463.hot-update.js",
-    "/1.f327e827eaa2ee66dedf.hot-update.js": "/1.f327e827eaa2ee66dedf.hot-update.js",
-    "/1.85816a122c7f615bea43.hot-update.js": "/1.85816a122c7f615bea43.hot-update.js",
-    "/1.d4467d59eba58f906803.hot-update.js": "/1.d4467d59eba58f906803.hot-update.js"
+    "/dist/manifest.js": "/dist/manifest.js"
 }
